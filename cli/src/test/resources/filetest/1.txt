@@ -1,0 +1,5 @@
+It is understandable, then, that Xyzzy cares a lot about the quality of its software.
+If Xyzzy pushes out a new version of its Android app with a crashing bug, millions of users could be affected.
+Those users might be inclined to switch to another social network, or even worse: put
+down their phone and interact with the real world.
+The net effect is the same, either way: Xyzzy's share of your attention, and thus potential revenue, decreases.
